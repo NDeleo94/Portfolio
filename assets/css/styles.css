@@ -120,3 +120,19 @@ nav {
     line-height: var(--line-height);
     padding: 0.3rem 0;
   }
+
+  /* More about style */
+  .more-about {
+    background-color: var(--bg-color);
+    padding: 1rem 6rem;
+  }
+  
+  .more-about h2 {
+    margin-bottom: var(--bottom-margin);
+    text-align: center;
+  }
+  
+  .more-about p {
+    line-height: var(--line-height);
+    padding: 0.4rem;
+  }
