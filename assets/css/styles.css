@@ -278,6 +278,20 @@ nav {
   cursor: pointer;
 }
 
+/* Social icons style*/
+.socials{
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  right: 1%;
+  bottom: 50%;
+}
+
+.socicon{
+  width: 2rem;
+  height: 2rem;
+}
+
 /* Footer style */
 footer{
   background-color: var(--bg-color);
